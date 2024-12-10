@@ -2,7 +2,7 @@
 Contributors: hk1993
 Tags: wordpress spam blocker, email blocker, spam email, email spam, spam, block spam, CF7 spam blocker, Contact Form 7 Spam Blocker, contact form spam, Contact Form 7 Email Blocker, Email Blocker, Spam blocker
 Requires at least: 3.0
-Tested up to: 5.4
+Tested up to: 6.7.1
 Stable tag: 5.1
 Donate link: https://mrkalathiya.wordpress.com/
 License: GPLv2 or later
